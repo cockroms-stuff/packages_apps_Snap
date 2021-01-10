@@ -1,6 +1,7 @@
 LOCAL_PATH:= $(call my-dir)
 
 include $(CLEAR_VARS)
+include $(BUILD_JAVA_LIBRARY)
 
 LOCAL_MODULE_TAGS := optional
 
